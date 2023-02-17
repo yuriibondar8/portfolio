@@ -1,0 +1,897 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"geom",
+				"geom_point"
+			],
+			[
+				"path_s",
+				"path_summary_wip"
+			],
+			[
+				"path_summ",
+				"path_summary_2"
+			],
+			[
+				"stations_summa",
+				"stations_summary_wip"
+			],
+			[
+				"stations",
+				"stations_summary"
+			],
+			[
+				"station",
+				"station_lookup_start"
+			],
+			[
+				"station_loo",
+				"station_lookup_end"
+			],
+			[
+				"compare_df_",
+				"compare_df_cols_same"
+			],
+			[
+				"sart_station",
+				"start_station_lookup"
+			],
+			[
+				"group",
+				"group_by"
+			],
+			[
+				"n_",
+				"n_distinct"
+			],
+			[
+				"out",
+				"out.fmt"
+			],
+			[
+				"compare_df",
+				"compare_df_cols_same"
+			],
+			[
+				"iden",
+				"identical"
+			],
+			[
+				"readr",
+				"readr"
+			],
+			[
+				"station_id",
+				"statiton_id"
+			],
+			[
+				"trips_path",
+				"trips_path_id_5"
+			],
+			[
+				"start_statio",
+				"start_station_id"
+			],
+			[
+				"trips_pa",
+				"trips_path_id_2"
+			],
+			[
+				"trips_path_id",
+				"trips_path_id_2"
+			],
+			[
+				"trips_ap",
+				"trips_path_id_3"
+			],
+			[
+				"trips_path_",
+				"trips_path_id_2"
+			],
+			[
+				"names",
+				"names_to"
+			],
+			[
+				"top_station",
+				"top_stations_member_e"
+			],
+			[
+				"top_stat",
+				"top_stations_member_s"
+			],
+			[
+				"destinations_temp_sum",
+				"destinations_temp_summary_2"
+			],
+			[
+				"destinations_temp_su",
+				"destinations_temp_summary_2"
+			],
+			[
+				"destinations",
+				"destinations_summary"
+			],
+			[
+				"destination",
+				"destinations_temp_summary"
+			],
+			[
+				"destinations_tem",
+				"destinations_temp_3"
+			],
+			[
+				"destion",
+				"destinations_temp"
+			],
+			[
+				"destin",
+				"destinations_temp"
+			],
+			[
+				"end_station",
+				"end_station_lookup"
+			],
+			[
+				"start",
+				"start_station_lookup"
+			],
+			[
+				"end_sta",
+				"end_station_name"
+			],
+			[
+				"start_stat",
+				"start_station_name"
+			],
+			[
+				"gropu",
+				"group_by"
+			],
+			[
+				"daily_",
+				"daily_hourly_m"
+			],
+			[
+				"day",
+				"day_of_week"
+			],
+			[
+				"daily_hourly_",
+				"daily_hourly_m1"
+			],
+			[
+				"daily",
+				"daily_hourly_m"
+			],
+			[
+				"daul",
+				"daily_hourly_c"
+			],
+			[
+				"member",
+				"member_trips"
+			],
+			[
+				"facet_",
+				"facet_wrap"
+			],
+			[
+				"hourly",
+				"hourly_summary"
+			],
+			[
+				"weekda",
+				"weekdays_summary"
+			],
+			[
+				"des",
+				"desc"
+			],
+			[
+				"weekd",
+				"weekdays_summary"
+			],
+			[
+				"week",
+				"weekdays_members"
+			],
+			[
+				"weekdays",
+				"weekdays_total"
+			],
+			[
+				"weekdays_",
+				"weekdays_summary"
+			],
+			[
+				"weekday",
+				"weekdays_total"
+			],
+			[
+				"monthly",
+				"monthly_summary_casual"
+			],
+			[
+				"monthly_su",
+				"monthly_summary_members"
+			],
+			[
+				"monthly_summary",
+				"monthly_summary_members"
+			],
+			[
+				"dura",
+				"duration_min"
+			],
+			[
+				"duration",
+				"duration_min"
+			],
+			[
+				"start_station",
+				"start_station_name"
+			],
+			[
+				"start_station_meme",
+				"start_station_member_1"
+			],
+			[
+				"start_staion",
+				"start_staion_member_1"
+			],
+			[
+				"start_sta",
+				"start_staion_member"
+			],
+			[
+				"start_la",
+				"start_lat"
+			],
+			[
+				"start_s",
+				"start_staion_vs_riders"
+			],
+			[
+				"remo",
+				"remove"
+			],
+			[
+				"duratio",
+				"duration_min"
+			],
+			[
+				"tota",
+				"total_trips"
+			],
+			[
+				"grou",
+				"group_by"
+			],
+			[
+				"set",
+				"setwd"
+			],
+			[
+				"trips_cle",
+				"trips_clean_wip"
+			],
+			[
+				"trips_c",
+				"trips_clean_wip"
+			],
+			[
+				"ride",
+				"ride_length"
+			],
+			[
+				"trip",
+				"trip_duration"
+			],
+			[
+				"trips_cl",
+				"trips_clean_wip"
+			],
+			[
+				"min",
+				"minutes"
+			],
+			[
+				"forma",
+				"format"
+			],
+			[
+				"trips_clea",
+				"trips_clean_wip"
+			],
+			[
+				"hms",
+				"hms"
+			],
+			[
+				"end",
+				"end_time"
+			],
+			[
+				"end_",
+				"end_time"
+			],
+			[
+				"e",
+				"end_time"
+			],
+			[
+				"trips",
+				"trips_clean"
+			],
+			[
+				"trips_el",
+				"trips_clean_wip"
+			],
+			[
+				"stra",
+				"started_at"
+			],
+			[
+				"Date",
+				"as.Date.default"
+			],
+			[
+				"hour",
+				"hour"
+			],
+			[
+				"time",
+				"parse_time"
+			],
+			[
+				"facet",
+				"facet_wrap"
+			],
+			[
+				"name",
+				"names_to"
+			],
+			[
+				"cols",
+				"cols"
+			],
+			[
+				"bes",
+				"best_trimmed_flavors_df"
+			],
+			[
+				"bars",
+				"bars_df"
+			],
+			[
+				"penguins",
+				"penguins_clean"
+			],
+			[
+				"drop",
+				"drop_na"
+			],
+			[
+				"pas",
+				"paste0"
+			],
+			[
+				"hotel",
+				"hotel_bookings"
+			],
+			[
+				"x",
+				"xlab"
+			],
+			[
+				"label",
+				"labels"
+			],
+			[
+				"sub",
+				"subtitle"
+			],
+			[
+				"onli",
+				"online_ta_city_hotels_v2"
+			],
+			[
+				"hot",
+				"hotel_bookings"
+			],
+			[
+				"face",
+				"facet_wrap"
+			],
+			[
+				"body",
+				"body_mass_g"
+			],
+			[
+				"wes",
+				"wes_palette"
+			],
+			[
+				"theme_b",
+				"theme_bw"
+			],
+			[
+				"geom_vio",
+				"geom_violin_pattern"
+			],
+			[
+				"ggp",
+				"ggpubr"
+			],
+			[
+				"pen",
+				"penguins_clean"
+			],
+			[
+				"peng",
+				"penguins_clean"
+			],
+			[
+				"spec",
+				"species"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"fac",
+				"factor"
+			],
+			[
+				"tit",
+				"plot.subtitle"
+			],
+			[
+				"wed",
+				"wesanderson"
+			],
+			[
+				"theme_ex",
+				"theme_excel_new"
+			],
+			[
+				"skim_with",
+				"skim_without_charts"
+			],
+			[
+				"hotel_book",
+				"hotel_bookings_city"
+			],
+			[
+				"hotel_",
+				"hotel_bookings_v3"
+			],
+			[
+				"lead",
+				"lead_time"
+			],
+			[
+				"predic",
+				"predicted_temp"
+			],
+			[
+				"pred",
+				"predicted_temp"
+			],
+			[
+				"datas",
+				"datasaurus_dozen"
+			],
+			[
+				"quartet",
+				"quartet_summarised"
+			],
+			[
+				"tidy",
+				"tidyverse"
+			],
+			[
+				"quarte",
+				"quartet"
+			],
+			[
+				"theme",
+				"theme_gdocs"
+			],
+			[
+				"theme_",
+				"theme_clean"
+			],
+			[
+				"per",
+				"percentage"
+			],
+			[
+				"relig_viz",
+				"relig_viz_int"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/R/R.sublime-build",
+					""
+				],
+				[
+					"Packages/SendCode/build_systems/R - Source File.sublime-build",
+					""
+				],
+				[
+					"Packages/User/R-IDE/R-IDE.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/SendCode/build_systems/R - Source File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/R/R.sublime-build",
+					""
+				],
+				[
+					"Packages/User/R-IDE/R-IDE.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/R/R.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"lsp-r",
+				"Preferences: LSP-R Settings"
+			],
+			[
+				"indent",
+				"Indentation: Detect"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ui",
+				"UI: Select Theme"
+			],
+			[
+				"term",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"UI ",
+				"UI: Select Color Scheme"
+			],
+			[
+				"UI",
+				"UI: Select Color Scheme"
+			],
+			[
+				"UI s",
+				"UI: Select Color Scheme"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Preferences: Package Control Settings"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"R-IDE",
+				"Preferences: R-IDE Settings"
+			],
+			[
+				"send",
+				"SendCode: Choose Program"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"disa",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"set syntax sq",
+				"Set Syntax: SQL"
+			],
+			[
+				"disable",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"enable",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"dispa",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"lsp",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"package control",
+				"Package Control: List Packages"
+			],
+			[
+				"enable la",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"lsp ena",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 141.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/yuriibondar/web-playground/hello.md",
+		"/Users/yuriibondar/coursera-test/capstone-clean.r",
+		"/Users/yuriibondar/coursera-test/capstone-Cyclistic-viz.r",
+		"/Users/yuriibondar/coursera-test/capstone-Cyclistic.r",
+		"/Users/yuriibondar/coursera-test/aesthetics.r",
+		"/Users/yuriibondar/coursera-test/course-challenge-7.r",
+		"/Users/yuriibondar/coursera-test/RMD-intro.Rmd",
+		"/Users/yuriibondar/coursera-test/annotations.r",
+		"/Users/yuriibondar/coursera-test/viz-basics.r",
+		"/Users/yuriibondar/coursera-test/filters-plots.r",
+		"/Users/yuriibondar/coursera-test/ggplot2.r",
+		"/Users/yuriibondar/coursera-test/dataframes.r",
+		"/Users/yuriibondar/coursera-test/clean.r",
+		"/Users/yuriibondar/coursera-test/sandobx-ggplot.R",
+		"/Users/yuriibondar/coursera-test/transforming-data.r",
+		"/Users/yuriibondar/coursera-test/data-bias.r",
+		"/Users/yuriibondar/coursera-test/change.r",
+		"/var/folders/7c/pgjjxsg55m3dxgq_ndcpbhsc0000gn/T/Rtmp4lPLhs/summarise.R",
+		"/Users/yuriibondar/coursera-test/README.md",
+		"/Users/yuriibondar/coursera-test/pivot-longer-wider.r",
+		"/Users/yuriibondar/coursera-test/relig_viz.r",
+		"/Users/yuriibondar/coursera-test/preview-clean.r",
+		"/Users/yuriibondar/coursera-test/clean",
+		"/Users/yuriibondar/coursera-test/arrange-group-filter.r",
+		"/Users/yuriibondar/coursera-test/operators-conditions-assignment.r",
+		"/Users/yuriibondar/coursera-test/read-csv.r",
+		"/Users/yuriibondar/coursera-test/sandbox-test.R",
+		"/Users/yuriibondar/coursera-test/test.R",
+		"/Users/yuriibondar/coursera-test/sandobx.R",
+		"/Users/yuriibondar/coursera-test/test.sql",
+		"/Users/yuriibondar/coursera-test/Read csv.r",
+		"/Users/yuriibondar/coursera-test/R Operators.r",
+		"/Users/yuriibondar/coursera-test/index.html",
+		"/Users/yuriibondar/coursera-test/untitled.html",
+		"/Users/yuriibondar/coursera-test/Untitled-2.r",
+		"/var/folders/7c/pgjjxsg55m3dxgq_ndcpbhsc0000gn/T/RtmpiqkP2m/arrange.R",
+		"/Users/yuriibondar/coursera-test/mojo-lady.html",
+		"/Users/yuriibondar/Documents/Sublime/R Files/untitled.R",
+		"/Users/yuriibondar/Documents/Sublime/index.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 238.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 82.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.Terminus":
+	{
+		"height": 143.0
+	},
+	"output.diagnostics":
+	{
+		"height": 43.0
+	},
+	"output.exec":
+	{
+		"height": 121.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.language servers":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.references":
+	{
+		"height": 143.0
+	},
+	"pinned_build_system": "Packages/R/R.sublime-build",
+	"project": "web-playground.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 180.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
