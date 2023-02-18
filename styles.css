@@ -92,7 +92,7 @@
   /*  review for mobile*/
   margin: 0 auto;
   grid-template-columns: repeat(2, 1fr);
-  grid-template-rows: repeat(auto-fit, 1280px);
+  grid-template-rows: repeat(auto-fit, 280px);
   
   }
   .side-bar-container {
@@ -113,7 +113,7 @@
   .side-bar-item {margin: 1rem;}
   .card {
     width: auto;
-    height: 1280px;
+    height: 280px;
     overflow: hidden;
     text-overflow: ellipsis;
   }
