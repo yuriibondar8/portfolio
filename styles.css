@@ -21,19 +21,6 @@
   grid-template-areas: "side-bar-container content-view-container";
 }
 
-@media only screen and (max-width: 800px) {
-  .main-container {width: 100%;}
-}
-@media only screen and (max-width: 550px) {
-  .main-container {
-    width: 100%;
-    grid-template-columns: 1fr;
-    grid-template-areas: "content-view-container";
-  }
-  .side-bar-container {border: solid none none none}
-  .side-bar {flex-direction: row; bottom: 0}
-}
-
 .side-bar-container {
   background: rgba(255, 255, 255, 0.8);
   -webkit-backdrop-filter: blur(50px);
@@ -58,7 +45,7 @@
 
   /*  review for mobile*/
   top: 50%;
-/*  transform: translate(0, -50%);*/
+  transform: translate(0, -50%);
   padding-right: 1rem;
   flex-direction: column;  
   text-align: right;
@@ -90,3 +77,52 @@
 
 /*add mode for mobile landscape 2 columns, with sidebar on the left*/
 /*screens 320, 768, 1200*/
+
+
+
+
+
+@media only screen and (max-width: 800px) {
+  .main-container {width: 100%;}
+}
+@media only screen and (max-width: 575px) {
+  .main-container {
+    width: 100%;
+    margin: 0 auto;
+    grid-template-columns: 100%;
+    grid-template-areas: "content-view-container" "side-bar-container";
+  }
+  .content-view-container {
+  /*  review for mobile*/
+  margin: 0 auto;
+  /*grid-template-columns: repeat(2, 150px);
+  grid-template-rows: repeat(auto-fit, 200px);*/
+  grid-template-columns: repeat(auto-fit, 1fr);
+  grid-template-rows: repeat(auto-fit, 180px);
+  
+  }
+  .side-bar-container {
+    border-style: solid none none none;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  .side-bar {
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    position: sticky;
+    top: 50%;
+    transform: translate(0, -50%);
+
+  }
+  .side-bar-item {margin: 1rem;}
+  .card {
+    width: 50vw;
+    height: 180px;
+    flex-direction: column;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .card p {font-size: 14px}
+}
