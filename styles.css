@@ -21,6 +21,10 @@
   grid-template-areas: "side-bar-container content-view-container";
 }
 
+@media only screen and (max-width: 800px) {
+  .main-container {width: 100%;}
+}
+
 .side-bar-container {
   background: rgba(255, 255, 255, 0.8);
   -webkit-backdrop-filter: blur(50px);
@@ -45,7 +49,7 @@
 
   /*  review for mobile*/
   top: 50%;
-  transform: translate(0, -50%);
+/*  transform: translate(0, -50%);*/
   padding-right: 1rem;
   flex-direction: column;  
   text-align: right;
@@ -75,5 +79,5 @@
 
 
 
-
-
+/*add mode for mobile landscape 2 columns, with sidebar on the left*/
+/*screens 320, 768, 1200*/
