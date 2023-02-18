@@ -15,7 +15,7 @@
   width: 80%;
   margin: 0 auto;
 
-  grid-template-columns: 0.2fr 1.8fr;
+  grid-template-columns: 20% 80%;
   grid-template-rows: 1fr;
   grid-template-areas: "side-bar-container content-view-container";
   grid-gap: 0;
@@ -24,17 +24,16 @@
 .card {
   grid-area: card;
   padding: 1rem;
+  margin: 1rem;
   border-style: none solid solid none;
   background: #fffff;
-  width: 300px;
-  height: 400px;
 }
 
 .side-bar-container {
   background: rgba(255, 255, 255, 0.8);
   -webkit-backdrop-filter: blur(50px);
   position: sticky;
-  top: 0;
+  left: 0;
   border-style: none solid none none;
   grid-area: side-bar-container;
 }
@@ -42,6 +41,6 @@
 .content-view-container {
   grid-area: content-view-container;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
   grid-gap: 0;
 }
