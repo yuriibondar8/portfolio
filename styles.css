@@ -24,6 +24,15 @@
 @media only screen and (max-width: 800px) {
   .main-container {width: 100%;}
 }
+@media only screen and (max-width: 550px) {
+  .main-container {
+    width: 100%;
+    grid-template-columns: 1fr;
+    grid-template-areas: "content-view-container";
+  }
+  .side-bar-container {border: solid none none none}
+  .side-bar {flex-direction: row; bottom: 0}
+}
 
 .side-bar-container {
   background: rgba(255, 255, 255, 0.8);
