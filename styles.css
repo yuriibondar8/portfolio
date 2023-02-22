@@ -9,17 +9,17 @@
 
 
 
-/*.main-container {
-	display: grid;
+.main-container {
 	height: 100vh;
+	width: 100%;
+
+	/*display: grid;
 	grid-gap: 0;
-	
 	/*  review for mobile*
-	width: 80%;
 	margin: 0 auto;
 	grid-template-columns: 20% 80%;
-	grid-template-areas: "side-bar-container content-view-container";
-}*/
+	grid-template-areas: "side-bar-container content-view-container";*/
+}
 
 .side-bar-container {
 	background: rgba(255, 255, 255, 0.8);
@@ -94,13 +94,25 @@
 
 
 @media only screen and (max-width: 704px) {
+	.main-container {width: 100%;}
 	.content-view-container {
 		grid-template-columns: repeat(2, 1fr);
 		grid-template-rows: repeat(auto-fit, 280px);
 	}
 	.card {height: 280px; overflow: hidden; text-overflow: ellipsis;}
 }
+
+@media only screen and (max-width: 832px) {
+	.main-container {width: 100%;}
+	.content-view-container {
+		grid-template-columns: repeat(2, 1fr);
+		grid-template-rows: repeat(auto-fit, 280px);
+	}
+	.card {height: 280px; overflow: hidden; text-overflow: ellipsis;}
+}
+
 @media only screen and (max-width: 448px) {
+	.main-container {width: 100%;}
 	.content-view-container {
 	/*  review for mobile*/
 	width: 100%;
