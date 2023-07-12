@@ -4,7 +4,8 @@
 	border-color: #333333;
 	border-width: 0.5px;
 	color: #333333;
-	font-family: Helvetica, Arial, sans-serif;
+/*	font-family: Helvetica, Arial, sans-serif;*/
+	font-family: 'Source Sans 3', sans-serif;
 }
 
 * h1 {
@@ -45,12 +46,18 @@
 .navigation {
 	display: flex;
 	list-style: none;
-	margin: 0;
+	margin: auto;
+	width: 80%;
 }
 
 .navigation-item {
 	padding: .7rem;
 	margin: auto;
+}
+
+.selected-page {
+	text-decoration: underline;
+	font-weight: 600;
 }
 
 /*##################*/
@@ -92,7 +99,7 @@
 		top: 0;
 	}
 	.navigation {
-		width: 80%;
+		width: 60%;
 		margin: auto;
 	}
 }
@@ -109,7 +116,7 @@
 		top: 0;
 	}
 	.navigation {
-		width: 60%;
+		width: 40%;
 		margin: auto;
 	}
 }
