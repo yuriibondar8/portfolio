@@ -25,12 +25,16 @@
 	--card-light: #F2F2F2;
 	--card-dark: #111111;
 
+	--accent-light: #A8CDFF;
+	--accent-dark: #0160E0;
+
 	--foreground: var(--clr-dark);
 	--background: var(--clr-light);
 	--body: var(--body-light);
 	--nav: var(--nav-light);
 	--stroke: var(--stroke-light);
 	--card-background: var(--card-light);
+	--accent: var(--accent-light);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -41,6 +45,7 @@
 		--nav: var(--nav-dark);
 		--stroke: var(--stroke-dark);
 		--card-background: var(--card-dark);
+		--accent: var(--accent-dark);
 	}
 }
 
@@ -82,6 +87,12 @@
 * a:visited {
   color: var(--foreground);
 }
+
+* mark {
+	background: var(--accent);
+	color: var(--foreground);
+}
+
 
 /*##################*/
 
