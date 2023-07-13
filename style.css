@@ -20,13 +20,17 @@
 	--nav-dark: rgba(0, 0, 0, 0.8);
 
 	--stroke-light: #333333;
-	--stroke-dark: #929292;
+	--stroke-dark: #4A4A4A;
+
+	--card-light: #F2F2F2;
+	--card-dark: #111111;
 
 	--foreground: var(--clr-dark);
 	--background: var(--clr-light);
 	--body: var(--body-light);
 	--nav: var(--nav-light);
 	--stroke: var(--stroke-light);
+	--card-background: var(--card-light);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -36,6 +40,7 @@
 		--body: var(--body-dark);
 		--nav: var(--nav-dark);
 		--stroke: var(--stroke-dark);
+		--card-background: var(--card-dark);
 	}
 }
 
@@ -72,6 +77,10 @@
 	font-weight: 400;
 	margin-bottom: .1rem;
 	color: var(--foreground);
+}
+
+* a:visited {
+  color: var(--foreground);
 }
 
 /*##################*/
@@ -118,8 +127,9 @@
 
 .card {
 	list-style: none;
+	background: var(--card-background);
 	margin: 1rem;
-	padding-bottom: 1rem;
+	padding: 1rem;
 	border-style: none solid solid none;
 	border-color: var(--stroke);
 }
