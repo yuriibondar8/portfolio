@@ -93,6 +93,9 @@
 	color: var(--foreground);
 }
 
+* body {
+	background: var(--body);
+}
 
 /*##################*/
 
@@ -114,7 +117,7 @@
 }
 
 .navigation-item {
-	padding: .7rem;
+	padding: 1rem;
 	margin: auto;
 }
 
@@ -133,7 +136,7 @@
 .main-container {
 	width: 100%;
 	margin: 0;
-	padding-bottom: 3rem;
+	padding-bottom: 4rem;
 }
 
 .card {
@@ -161,16 +164,7 @@
 
 /*##################*/
 
-
-
-
-/*##################*/
-
-* body {
-	background: var(--body);
-}
-
-@media only screen and (min-width: 1023px) {
+@media only screen and (min-width: 767px) {
 	.main-container {
 		width: 80%;
 		margin: auto;
@@ -178,7 +172,7 @@
 	}
 	.navigation-item-container {
 		border-style: none none solid none;
-		height: 2.6rem;
+		height: 3rem;
 		top: 0;
 	}
 	.navigation {
@@ -195,7 +189,7 @@
 	}
 	.navigation-item-container {
 		border-style: none none solid none;
-		height: 2.6rem;
+		height: 3rem;
 		top: 0;
 	}
 	.navigation {
