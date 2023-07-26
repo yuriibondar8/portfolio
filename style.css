@@ -103,6 +103,7 @@
 	width: 100%;
 	background: var(--nav);
 	-webkit-backdrop-filter: saturate(1.8) blur(20px);
+	backdrop-filter: saturate(1.8) blur(20px);
 	border-style: solid none none none;
 	border-color: var(--stroke);
 	position: fixed;
