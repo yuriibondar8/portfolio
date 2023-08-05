@@ -93,13 +93,14 @@
 	color: var(--foreground);
 }
 
+* hr {
+	border-color: var(--stroke);
+}
+
 * body {
 	background: var(--body);
 }
 
-* hr {
-	border-color: var(--stroke);
-}
 
 /*##################*/
 
