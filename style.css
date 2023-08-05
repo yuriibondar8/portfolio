@@ -94,7 +94,7 @@
 }
 
 * hr {
-	border-color: var(--stroke);
+	border-color: var(--body);
 }
 
 * body {
